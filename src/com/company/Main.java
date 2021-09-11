@@ -15,6 +15,5 @@ public class Main {
         System.out.print("Enter the value of y2 : ");
         int y2 = sc.nextInt();
         System.out.println("Length of the line is : " + (Math.sqrt(Math.pow((x2 - x1), 2)) + Math.pow((y2 - y1), 2)));
-
     }
 }
